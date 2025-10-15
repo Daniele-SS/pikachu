@@ -1,2 +1,2 @@
-# pikachu
+# PIKACHU
 ![](./img/pikachu-preview.png)
