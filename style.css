@@ -115,5 +115,24 @@ footer{
 
 }
 @media (max-width: 480px){
+    .descricao p{
+        display: none;
+    }
 
+    .pikachu{
+        height: 50vh;
+    }
+
+    .descricao h2{
+        font-size: 38px;
+    }
+
+    .conteiner a{
+        width: 100%;
+    }
+
+   .sombra{
+    transform: translate(-50%, -260%);
+    font-size: 85px;
+   }
 }
